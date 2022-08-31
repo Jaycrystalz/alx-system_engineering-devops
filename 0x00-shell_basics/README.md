@@ -1,1 +1,1 @@
-move or rename files and directories
+delete files
