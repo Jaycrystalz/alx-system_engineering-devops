@@ -1,1 +1,1 @@
-List all files (even ones with names beginning with a period character, which are normally hidden) in the parent of the working directory in long format
+list long format as well as hidden file and files with user and group IDs displayed numerically
