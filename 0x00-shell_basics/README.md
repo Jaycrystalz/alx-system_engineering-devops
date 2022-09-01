@@ -1,1 +1,1 @@
-deletes all files in the current working directory that end with a character
+creates different directories in the current directory
