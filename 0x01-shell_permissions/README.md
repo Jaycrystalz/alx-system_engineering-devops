@@ -1,1 +1,1 @@
- changes the owner of the file only if it owned by the user
+play the StarWars IV episode in the terminal
