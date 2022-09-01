@@ -1,1 +1,1 @@
-creates a directory with permissions 751 in the working directory
+changes the group owner for a file
