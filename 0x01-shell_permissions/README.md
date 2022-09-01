@@ -1,1 +1,1 @@
-switches the current user to another user
+prints the effective username of the current user
