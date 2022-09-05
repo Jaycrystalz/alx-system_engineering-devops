@@ -1,1 +1,1 @@
- deletes all the regular files (not the directories)
+displays a confused smiley
