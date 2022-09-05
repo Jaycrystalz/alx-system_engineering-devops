@@ -1,1 +1,1 @@
-displays all user and their home directory, sorted by user
+finds all empty files and directories in the current directory and all sub-directories
