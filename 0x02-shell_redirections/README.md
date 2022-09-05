@@ -1,1 +1,1 @@
-duplicates the last line of a file
+ deletes all the regular files (not the directories)
