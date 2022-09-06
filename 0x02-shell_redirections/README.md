@@ -1,1 +1,1 @@
-decodes acrostic that use the first lrtter of each line
+creates a file containing a text ending by a new line
