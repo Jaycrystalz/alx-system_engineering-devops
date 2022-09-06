@@ -1,1 +1,1 @@
-prints the result, divides it, followedd by a new line
+displays the result followed by a new line
