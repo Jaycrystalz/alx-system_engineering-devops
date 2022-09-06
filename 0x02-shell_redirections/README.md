@@ -1,1 +1,1 @@
- decodes acrostics that use the first letter of each line
+decodes acrostic that use the first lrtter of each line
